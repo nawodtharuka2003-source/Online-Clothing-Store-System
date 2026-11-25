@@ -35,5 +35,5 @@ A console-based C++ program that simulates an online clothing store.
 
 ## Developers
 
-- Nawod Taruka — ITBNM-2516-0020
+- Nawod Tharuka — ITBNM-2516-0020
 
